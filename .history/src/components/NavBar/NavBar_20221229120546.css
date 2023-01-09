@@ -1,0 +1,13 @@
+.NavBarContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+a {
+  text-decoration: none;
+  font-weight: 800;
+  color: black;
+  margin: 3em;
+  font-size: 4em;
+}

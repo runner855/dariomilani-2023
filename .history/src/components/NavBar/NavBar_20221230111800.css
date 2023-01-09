@@ -1,0 +1,24 @@
+.NavBarContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+ul {
+  display: flex;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  margin: 10px;
+  font-size: 12px;
+  font-weight: 800;
+}
+
+li {
+  list-style-type: none;
+}
+
+a:hover {
+  cursor: pointer;
+}

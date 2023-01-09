@@ -1,0 +1,13 @@
+.FooterContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+a {
+  color: black;
+}
+
+li {
+  list-style: none;
+}

@@ -1,0 +1,49 @@
+.HomeContainer {
+  height: 100vh;
+  margin-bottom: 1em;
+}
+
+.HeroContainer {
+  padding: 6em 0 1em 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.HeroImage {
+  height: 8em;
+  width: 8em;
+  object-fit: contain;
+  border-radius: 50%;
+
+  border: solid 2px black;
+  background-color: white;
+}
+
+.Name {
+  font-size: 20px;
+  font-weight: 800;
+  margin: 1em;
+  color: white;
+}
+
+.Role {
+  font-size: 20px;
+  color: orange;
+  font-weight: 600;
+}
+
+.HeroContainer {
+  background-image: url("https://mikecastellon.com/static/fd9201d67752a636ed4bdc4bb787bbac/b3469/banner-01.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.IntroContainer_header {
+  font-size: 2em;
+  font-weight: 700;
+  margin: 1em;
+  width: 100%;
+  text-align: center;
+}

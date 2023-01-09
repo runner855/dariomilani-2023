@@ -1,0 +1,8 @@
+.FooterContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+.FooterContainer {
+  text-align: center;
+}
